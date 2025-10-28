@@ -130,5 +130,3 @@ clickup-dashboard/
 - Task statuses are mapped to icons (done, in progress, blocked, etc.)
 
 ---
-
-This README is ready to use — just replace `yourusername` in the clone URL and optionally add a real screenshot.
