@@ -111,6 +111,7 @@ Open http://localhost:5173 to see the dashboard.
 
 ## 8. Folder Structure
 
+```bash
 clickup-dashboard/
 ├── src/
 │ ├── App.jsx # Main app
@@ -118,6 +119,7 @@ clickup-dashboard/
 │ └── index.css # Tailwind styles
 ├── package.json
 └── README.md
+```
 
 ---
 
