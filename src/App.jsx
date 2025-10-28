@@ -402,6 +402,11 @@ const App = () => {
                   </div>
                   <p className="text-sm text-gray-300 mb-3">
                     {task.status?.status || "No status"}
+                    <br />
+                    Url:{" "}
+                    <a href={task.url} className="underline">
+                      {task.url}
+                    </a>
                   </p>
                   {task.assignees?.length > 0 ? (
                     <div className="flex -space-x-3 mt-3">
